@@ -1,0 +1,9 @@
+﻿  task3.c
+c:\git\с-lab-3\task1\task3\task3.c(30): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+c:\git\с-lab-3\task1\task3\task3.c(48): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+  main3.c
+  Создание кода...
+  task3.vcxproj -> C:\git\С-lab-3\task1\Debug\task3.exe
+  task3.vcxproj -> C:\git\С-lab-3\task1\Debug\task3.pdb (Full PDB)
