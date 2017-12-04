@@ -1,0 +1,7 @@
+﻿  main7.c
+c:\git\с-lab-3\task1\task7\main7.c(37): warning C4047: return: "int" отличается по уровням косвенного обращения от "int *"
+c:\git\с-lab-3\task1\task7\main7.c(36): warning C4047: инициализация: "int *" отличается по уровням косвенного обращения от "int (*)[2]"
+c:\git\с-lab-3\task1\task7\main7.c(60): warning C4047: инициализация: "int *" отличается по уровням косвенного обращения от "int"
+c:\git\с-lab-3\task1\task7\main7.c(37): warning C4172: возвращение адреса локальной или временной переменной : result
+  task7.vcxproj -> C:\git\С-lab-3\task1\Debug\task7.exe
+  task7.vcxproj -> C:\git\С-lab-3\task1\Debug\task7.pdb (Full PDB)

@@ -8,7 +8,7 @@ int main()
 	char buf[SIZE];
 	printf("Enter a line :\n");
 	fgets(buf, SIZE, stdin);
-	buf[strlen(buf) - 1] = '\0';// chenge '\n' on  end of line
+	buf[strlen(buf) - 1] = '\0';// change '\n' on  end of line
 	
 	getMaxWord(buf, word);
 	printf("max lenght : %i symbol \nword it:  %s   \n", getMaxWord(buf, word), word);

@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{C8A163AC-983B-452B-8E57-D4E0EDF2CCDB}</ProjectGuid>
+    <ProjectGuid>{C00B9A90-C839-4BEE-A387-430E6ECC46D3}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>task2</RootNamespace>
+    <RootNamespace>task7</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,10 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="main2.c" />
+    <ClCompile Include="main7.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
